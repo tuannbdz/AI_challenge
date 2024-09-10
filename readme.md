@@ -1,1 +1,4 @@
-# Anthropocene AI challenge
+# AI challenge
+
+# TEAM: Anthropocene - HCMUS
+
